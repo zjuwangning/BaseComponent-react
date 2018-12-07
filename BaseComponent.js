@@ -1,5 +1,5 @@
-/**
- * Created by dell on 2017/2/5.
+﻿/**
+ * Created by Reid on 2018/2/5.
  */
 import React from 'react';
 import moment from 'moment';
